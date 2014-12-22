@@ -37,16 +37,20 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Nevves from Graues-end sent to nobody.Dekker, Thomas, ca. 1572-1632.1604Approx. 59 KB of XML-encoded
+
 #####Body#####
 
-1. The cause of the Plague.
+1. TEE EPISTLE Dedicatory.
 
-1. The Horror of the Plague.
+1. Newes from Graues-ende.
 
-1. The Cure of the Plagne.
+    _ The cause of the Plague.
 
-1. The necessitie of a Plague.
+    _ The Horror of the Plague.
+
+    _ The Cure of the Plagne.
+
+    _ The necessitie of a Plague.
 
 **Types of content**
 
